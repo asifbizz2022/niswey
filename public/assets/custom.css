@@ -1,0 +1,210 @@
+
+
+table tbody tr td {  
+color:black; 
+padding-right: 3px;
+padding:0px;
+font-size: 12px;
+font-weight: 500; 
+}
+ul li{
+border-radius: 0px;
+}
+thead{
+background: #556ee6;
+color:white; 
+font-size: 11px;  
+
+}
+
+.dataTables_length{
+margin-top:10px;
+}
+.btn , input.form-control, select.form-control , .card{
+border-radius: 0px;
+
+}
+
+.card .card-body{
+padding: 3px;
+}
+
+.card{
+
+}
+.footer {
+bottom: 0;
+padding: 5px calc(24px / 2);
+position: absolute;
+right: 0;
+color: gray;
+left: 172px;
+height: auto;
+
+}
+
+.vertical-menu {
+width: 175px;
+z-index: 1001;
+background: #fff;
+bottom: 0;
+margin-top: 0;
+position: fixed;
+top: 35px;
+-webkit-box-shadow: 0 .75rem 1.5rem rgba(18, 38, 63, .03);
+box-shadow: 0 .75rem 1.5rem rgba(18, 38, 63, .03);
+
+
+}
+
+.navbar-header {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-pack: justify;
+-webkit-box-pack: justify;
+justify-content: space-between;
+-webkit-box-align: center;
+-ms-flex-align: center;
+align-items: center;
+margin: 0 auto;
+height: 48px;
+padding: 0 calc(24px / 2) 0 0;
+}
+.dropdown-menu.show {
+top: 85% !important;
+}
+
+
+.vertical-collpsed .vertical-menu #sidebar-menu>ul>li>a {
+	padding: 5px 15px;
+	min-height: 20px; 
+	-webkit-transition: none;
+	transition: none;
+	font-size: 13px;
+}
+.vertical-collpsed .vertical-menu #sidebar-menu>ul>li>a i {
+    font-size: 13px;
+    margin-left: 5px;
+    text-align: center;
+    
+}
+
+.page-content {
+padding: calc(15px + 24px) calc(15px / 2) 60px calc(22px / 2)
+}
+.navbar-brand-box {
+padding: 21px 9px;
+text-align: center; 
+height: 59px;
+width: 175px;
+}
+
+#sidebar-menu ul li a {
+display: block;
+padding: 0.625rem 0.5rem;
+color: #545a6d;
+position: relative;
+font-size: 11px;
+-webkit-transition: all .4s;
+transition: all .4s;
+}
+
+#sidebar-menu ul li ul.sub-menu li a {
+padding: 12.4rem 0.5rem 4.4rem 2.5rem;
+font-size: 13px;
+color: #545a6d;
+text-transform: capitalize;
+}
+#sidebar-menu ul li a i {
+display: inline-block;
+min-width: 1.75rem;
+padding-bottom: .125em;
+font-size: 15px;
+line-height: 1.40625rem;
+vertical-align: middle;
+color: #7f8387;
+-webkit-transition: all .4s;
+transition: all .4s;
+}
+body[data-sidebar=dark] #sidebar-menu ul li a {
+font-family: tahoma;
+font-weight: 300;
+font-size: 1px;
+padding-top: 0px;
+padding-bottom: 0px;
+
+}
+
+.logo {
+line-height: 33px;
+
+}
+.main-content {
+margin-left: 169px;
+overflow: hidden;
+}  
+.metismenu, .menu-title{
+color:yellow; 
+}
+.menu-title{
+padding: 10px 8px !important;
+}
+
+body[data-sidebar=dark] #sidebar-menu ul li ul.sub-menu li a {
+font-family: tahoma;
+font-weight: 500;
+font-size: 12px;
+font-family:  ;
+padding-top: 3px;
+padding-bottom: 3px;
+margin:0px; 
+}
+
+body[data-sidebar=dark] #sidebar-menu ul li a {
+font-family: tahoma;
+font-weight: 500;
+font-size: 12px;
+padding-top: 3px;
+padding-bottom: 3px;
+font-family:  ;
+color:yellow; 
+}
+
+.page-link {
+padding: 3px 6px;
+border-radius: 0px;
+}
+
+.metismenu, .menu-title{
+color:yellow;
+
+
+}
+.menu-title{
+padding: 10px 8px !important;
+}
+body[data-sidebar=dark] #sidebar-menu ul li ul.sub-menu li a {
+font-family: ;
+font-weight: 500;
+font-size: 12px;
+font-family:  ;
+padding-top: 3px;
+padding-bottom: 3px;
+margin:0px;
+
+}
+body[data-sidebar=dark] #sidebar-menu ul li a {
+
+font-weight: 500;
+font-size: 13px;
+padding-top: 5px;
+padding-bottom: 3px;
+font-family:  ;
+
+}
+ ul  li a {
+        border-bottom: thin solid #666;
+
+   }
+  
